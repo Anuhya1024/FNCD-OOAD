@@ -1,0 +1,189 @@
+NORTHWASHING:: PerformanceCar #3 is assigned to Staff.Intern #13
+Washed using chemical washing
+PerformanceCar #3's cleanliness changed from dirty to sparkling
+Staff.Intern #13 received a bonus of 35.0
+NORTHWASHING:: PerformanceCar #3 is assigned to Staff.Intern #13
+Washed using chemical washing
+PerformanceCar #3's cleanliness changed from dirty to sparkling
+Staff.Intern #13 received a bonus of 35.0
+WASHING:: MotorCycles #3 is assigned to Staff.Intern #13
+Washed using chemical washing
+MotorCycles #3's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+NORTHWASHING:: MotorCycles #4 is assigned to Staff.Intern #17
+Washed using detailed washing
+MotorCycles #4's cleanliness changed from dirty to sparklingNORTHWASHING:: MotorCycles #4 is assigned to Staff.Intern #17
+Washed using detailed washing
+MotorCycles #4's cleanliness changed from dirty to sparklingWASHING:: Bus #1 is assigned to Staff.Intern #17
+Washed using detailed washing
+Bus #1's cleanliness changed from dirty to cleanNORTHWASHING:: Bus #2 is assigned to Staff.Intern #21
+Washed using chemical washing
+Bus #2 condition is broken now
+NORTHWASHING:: Bus #2 is assigned to Staff.Intern #21
+Washed using chemical washing
+Bus #2 condition is broken now
+WASHING:: Bus #3 is assigned to Staff.Intern #21
+Washed using chemical washing
+Bus #3's cleanliness changed from dirty to clean
+Staff.Intern #21 received a bonus of 0.0
+SOUTHWASHING:: PickUpCars7 is assigned to Staff.Intern #11
+Washed using chemical washing
+PickUpCars7 condition is broken now
+SOUTHWASHING:: PickUpCars7 is assigned to Staff.Intern #11
+Washed using chemical washing
+PickUpCars7 condition is broken now
+WASHING:: MotorCycles #8 is assigned to Staff.Intern #11
+Washed using chemical washing
+MotorCycles #8's cleanliness changed from dirty to clean
+Staff.Intern #11 received a bonus of 0.0
+SOUTHWASHING:: MotorCycles #9 is assigned to Staff.Intern #15
+Washed using detailed washing
+MotorCycles #9's cleanliness changed from dirty to cleanSOUTHWASHING:: MotorCycles #9 is assigned to Staff.Intern #15
+Washed using detailed washing
+MotorCycles #9's cleanliness changed from dirty to cleanWASHING:: Bus #7 is assigned to Staff.Intern #15
+Washed using detailed washing
+Bus #7's cleanliness changed from dirty to dirtySOUTHWASHING:: Bus #8 is assigned to Staff.Intern #19
+Washed using chemical washing
+Bus #8's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+SOUTHWASHING:: Bus #8 is assigned to Staff.Intern #19
+Washed using chemical washing
+Bus #8's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+WASHING:: Bus #9 is assigned to Staff.Intern #19
+Washed using chemical washing
+Bus #9's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+REPAIRING:: Bus #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken bus and made it used(got bonus of $0.0)
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+REPAIRING:: Bus #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+REPAIRING:: Bus #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #4 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+REPAIRING:: Bus #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #4 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #5 is assigned to Staff.Mechanic #3
+REPAIRING:: Staff.Mechanic #3 Was not succeeded in repairing Electric Bikes #5
+NORTHREPAIRING:: PerformanceCar #3 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing PerformanceCar #3
+REPAIRING:: Bus #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #4 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #5 is assigned to Staff.Mechanic #3
+REPAIRING:: Staff.Mechanic #3 Was not succeeded in repairing Electric Bikes #5
+REPAIRING:: Electric Bikes #6 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired broken bus and made it used(got bonus of $0.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+REPAIRING:: PickUpCars9 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+REPAIRING:: PickUpCars9 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: MotorCycles #12 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+REPAIRING:: PickUpCars9 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: MotorCycles #12 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: Bus #8 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+REPAIRING:: PickUpCars9 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: MotorCycles #12 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: Bus #8 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Bus #9 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired used bus and made it veryNew(got bonus of $0.0)
+SOUTHREPAIRING:: PickUpCars7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired broken pickUpCars and made it used(got bonus of $40.0)
+REPAIRING:: PickUpCars9 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: MotorCycles #12 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: Bus #8 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Bus #9 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Bus #10 is assigned to Staff.Mechanic #6
+REPAIRING:: Staff.Mechanic #6 Was not succeeded in repairing Bus #10
+NORTHSELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #3
+SELLING:: Staff.Intern #3 was not able to sell the car 
+SOUTHSELLING:: Staff.Customer preference electricCars; assigned to Salesperson #4
+SELLING:: Salesperson #4 was not able to sell the car 
+SOUTHSELLING:: Staff.Customer preference electricCars; assigned to Salesperson #4
+SELLING:: Salesperson #4 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #7
+SELLING:: Staff.Intern #7 was not able to sell the car 
+SOUTHSELLING:: Staff.Customer preference electricCars; assigned to Salesperson #4
+SELLING:: Salesperson #4 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #7
+SELLING:: Staff.Intern #7 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #7
+SELLING:: Staff.Intern #7 was not able to sell the car 
+SOUTHSELLING:: Staff.Customer preference electricCars; assigned to Salesperson #4
+SELLING:: Salesperson #4 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #7
+SELLING:: Staff.Intern #7 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #7
+SELLING:: Staff.Intern #7 was not able to sell the car 
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #9
+SELLING:: Staff.Intern #9 was not able to sell the car 
+NORTHDriver # 2Drove PickUpCars1And stood at position 11Injured status of driver false
+NORTHDriver # 2Drove PickUpCars1And stood at position 11Injured status of driver false
+Driver # 1Drove PickUpCars2And stood at position 18Injured status of driver false
+NORTHDriver # 2Drove PickUpCars1And stood at position 11Injured status of driver false
+Driver # 1Drove PickUpCars2And stood at position 18Injured status of driver false
+Driver # 3Drove PickUpCars3And stood at position 17Injured status of driver false
+SOUTHDriver # 4Drove PerformanceCar #7And stood at position 18Injured status of driver true
+SOUTHDriver # 4Drove PerformanceCar #7And stood at position 18Injured status of driver true
+Driver # 6Drove PerformanceCar #8And stood at position 8Injured status of driver null
+SOUTHDriver # 4Drove PerformanceCar #7And stood at position 18Injured status of driver true
+Driver # 6Drove PerformanceCar #8And stood at position 8Injured status of driver null
+Driver # 5Drove PerformanceCar #9And stood at position 15Injured status of driver false
+NORTHStaff.Mechanic Staff.Mechanic #1 got salary of $75.0 and bonus of $0.0
+NORTHStaff.Mechanic Staff.Mechanic #2 got salary of $75.0 and bonus of $0.0
+NORTHStaff.Mechanic Staff.Mechanic #3 got salary of $75.0 and bonus of $0.0
+NORTHDriver Driver # 1 got salary of $150.0 and bonus of $0.0
+NORTHDriver Driver # 2 got salary of $150.0 and bonus of $0.0
+NORTHDriver Driver # 3 got salary of $150.0 and bonus of $0.0
+============= End of the day + 16 for the LocationNORTH====================== End of the day for the LocationNORTH=====================SOUTHStaff.SalesPerson Salesperson #4 got salary of $100.0 and bonus of $0.0
+SOUTHStaff.Mechanic Staff.Mechanic #4 got salary of $75.0 and bonus of $80.0
+SOUTHStaff.Mechanic Staff.Mechanic #5 got salary of $75.0 and bonus of $30.0
+SOUTHStaff.Mechanic Staff.Mechanic #6 got salary of $75.0 and bonus of $0.0
+SOUTHDriver Driver # 4 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 5 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 6 got salary of $150.0 and bonus of $0.0
+TOOK LOAN: Added money to the FNCD.FNCD budget due to low funds. Current FNCD.FNCD budget: 267915.94999999995
+============= End of the day + 16 for the LocationSOUTH====================== End of the day for the LocationSOUTH=====================

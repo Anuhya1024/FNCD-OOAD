@@ -1,0 +1,176 @@
+NORTHWASHING:: Grave Digger 1 is assigned to Staff.Intern #13
+Washed using chemical washing
+Grave Digger 1's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+NORTHWASHING:: Grave Digger 1 is assigned to Staff.Intern #13
+Washed using chemical washing
+Grave Digger 1's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+WASHING:: Brutus 2 is assigned to Staff.Intern #13
+Washed using chemical washing
+Brutus 2's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+NORTHWASHING:: Electric Bikes #18 is assigned to Staff.Intern #17
+Washed using detailed washing
+Electric Bikes #18's cleanliness changed from dirty to cleanNORTHWASHING:: Electric Bikes #18 is assigned to Staff.Intern #17
+Washed using detailed washing
+Electric Bikes #18's cleanliness changed from dirty to cleanWASHING:: Electric Bikes #27 is assigned to Staff.Intern #17
+Washed using detailed washing
+Electric Bikes #27's cleanliness changed from dirty to sparklingNORTHWASHING:: Electric Bikes #37 is assigned to Staff.Intern #21
+Washed using chemical washing
+Electric Bikes #37's cleanliness changed from dirty to clean
+Staff.Intern #21 received a bonus of 0.0
+NORTHWASHING:: Electric Bikes #37 is assigned to Staff.Intern #21
+Washed using chemical washing
+Electric Bikes #37's cleanliness changed from dirty to clean
+Staff.Intern #21 received a bonus of 0.0
+WASHING:: Electric Bikes #38 is assigned to Staff.Intern #21
+Washed using chemical washing
+Electric Bikes #38's cleanliness changed from dirty to clean
+Staff.Intern #21 received a bonus of 0.0
+SOUTHWASHING:: Bus #8 is assigned to Staff.Intern #15
+Washed using detailed washing
+Bus #8's cleanliness changed from dirty to cleanSOUTHWASHING:: Bus #8 is assigned to Staff.Intern #15
+Washed using detailed washing
+Bus #8's cleanliness changed from dirty to cleanWASHING:: Electric Bikes #8 is assigned to Staff.Intern #15
+Washed using detailed washing
+Electric Bikes #8's cleanliness changed from dirty to cleanSOUTHWASHING:: Electric Bikes #19 is assigned to Staff.Intern #19
+Washed using chemical washing
+Electric Bikes #19's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+SOUTHWASHING:: Electric Bikes #19 is assigned to Staff.Intern #19
+Washed using chemical washing
+Electric Bikes #19's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+WASHING:: Electric Bikes #20 is assigned to Staff.Intern #19
+Washed using chemical washing
+Electric Bikes #20's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+SOUTHWASHING:: Electric Bikes #21 is assigned to Staff.Intern #23
+Washed using detailed washing
+Electric Bikes #21's cleanliness changed from dirty to cleanSOUTHWASHING:: Electric Bikes #21 is assigned to Staff.Intern #23
+Washed using detailed washing
+Electric Bikes #21's cleanliness changed from dirty to cleanWASHING:: Electric Bikes #22 is assigned to Staff.Intern #23
+Washed using detailed washing
+Electric Bikes #22's cleanliness changed from dirty to cleanNORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+NORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Electric Bikes #49 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing Electric Bikes #49
+NORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Electric Bikes #49 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing Electric Bikes #49
+REPAIRING:: Electric Bikes #50 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+NORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Electric Bikes #49 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing Electric Bikes #49
+REPAIRING:: Electric Bikes #50 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #51 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired broken bus and made it used(got bonus of $0.0)
+NORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Electric Bikes #49 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing Electric Bikes #49
+REPAIRING:: Electric Bikes #50 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #51 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #52 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired used bus and made it veryNew(got bonus of $0.0)
+NORTHREPAIRING:: Brutus 2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Electric Bikes #49 is assigned to Staff.Mechanic #1
+REPAIRING:: Staff.Mechanic #1 Was not succeeded in repairing Electric Bikes #49
+REPAIRING:: Electric Bikes #50 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #51 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #52 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #53 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired broken bus and made it used(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #36 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #36 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #43 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken bus and made it used(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #36 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #43 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #44 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #36 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #43 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #44 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #45 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired broken bus and made it used(got bonus of $0.0)
+SOUTHREPAIRING:: Electric Bikes #35 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #36 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #43 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #44 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired used bus and made it veryNew(got bonus of $0.0)
+REPAIRING:: Electric Bikes #45 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired broken bus and made it used(got bonus of $0.0)
+REPAIRING:: Electric Bikes #46 is assigned to Staff.Mechanic #6
+REPAIRING:: Staff.Mechanic #6 Was not succeeded in repairing Electric Bikes #46
+NORTHSELLING:: Staff.Customer preference cars; assigned to Staff.Intern #3
+Added Satellite Radio SELLING::Staff.Intern #3 sold the car of selling price 19404.0(Received Bonus =50.0)
+NORTHSELLING:: Staff.Customer preference cars; assigned to Staff.Intern #3
+Added Satellite Radio SELLING::Staff.Intern #3 sold the car of selling price 19404.0(Received Bonus =50.0)
+SELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #1
+Added UnderCoating SELLING::Staff.Intern #1 sold the car of selling price 12902.4(Received Bonus =80.0)
+NORTHSELLING:: Staff.Customer preference cars; assigned to Staff.Intern #3
+Added Satellite Radio SELLING::Staff.Intern #3 sold the car of selling price 19404.0(Received Bonus =50.0)
+SELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #1
+Added UnderCoating SELLING::Staff.Intern #1 sold the car of selling price 12902.4(Received Bonus =80.0)
+SELLING:: Staff.Customer preference cars; assigned to Staff.Intern #1
+Added Road Rescue Coverage Added Satellite Radio SELLING::Staff.Intern #1 sold the car of selling price 21187.07(Received Bonus =50.0)
+SOUTHSELLING:: Staff.Customer preference cars; assigned to Staff.Intern #9
+SELLING:: Staff.Intern #9 was not able to sell the car 
+SOUTHSELLING:: Staff.Customer preference cars; assigned to Staff.Intern #9
+SELLING:: Staff.Intern #9 was not able to sell the car 
+SELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #9
+SELLING:: Staff.Intern #9 was not able to sell the car 
+NORTHDriver # 2Drove Grave Digger 1And stood at position 7Injured status of driver false
+NORTHDriver # 2Drove Grave Digger 1And stood at position 7Injured status of driver false
+Driver # 3Drove Brutus 2And stood at position 13Injured status of driver false
+NORTHDriver # 2Drove Grave Digger 1And stood at position 7Injured status of driver false
+Driver # 3Drove Brutus 2And stood at position 13Injured status of driver false
+Driver # 1Drove Maximum Destruction (Max-D) 3And stood at position 2Injured status of driver false
+NORTHStaff.Mechanic Staff.Mechanic #1 got salary of $75.0 and bonus of $50.0
+NORTHStaff.Mechanic Staff.Mechanic #2 got salary of $75.0 and bonus of $0.0
+NORTHStaff.Mechanic Staff.Mechanic #3 got salary of $75.0 and bonus of $0.0
+NORTHDriver Driver # 1 got salary of $150.0 and bonus of $150.0
+NORTHDriver Driver # 2 got salary of $150.0 and bonus of $0.0
+NORTHDriver Driver # 3 got salary of $150.0 and bonus of $0.0
+TOOK LOAN: Added money to the FNCD.FNCD budget due to low funds. Current FNCD.FNCD budget: 251504.20750000022
+============= End of the day + 27 for the LocationNORTH====================== End of the day for the LocationNORTH=====================SOUTHStaff.Mechanic Staff.Mechanic #4 got salary of $75.0 and bonus of $0.0
+SOUTHStaff.Mechanic Staff.Mechanic #5 got salary of $75.0 and bonus of $0.0
+SOUTHStaff.Mechanic Staff.Mechanic #6 got salary of $75.0 and bonus of $0.0
+SOUTHDriver Driver # 4 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 5 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 6 got salary of $150.0 and bonus of $0.0
+============= End of the day + 27 for the LocationSOUTH====================== End of the day for the LocationSOUTH=====================

@@ -1,0 +1,165 @@
+NORTHWASHING:: PerformanceCar #2 is assigned to Staff.Intern #5
+Washed using detailed washing
+PerformanceCar #2's cleanliness changed from dirty to cleanNORTHWASHING:: PerformanceCar #2 is assigned to Staff.Intern #5
+Washed using detailed washing
+PerformanceCar #2's cleanliness changed from dirty to cleanWASHING:: PerformanceCar #3 is assigned to Staff.Intern #5
+Washed using detailed washing
+PerformanceCar #3's cleanliness changed from dirty to cleanNORTHWASHING:: ElectricCars #3 is assigned to Staff.Intern #13
+Washed using chemical washing
+ElectricCars #3's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+NORTHWASHING:: ElectricCars #3 is assigned to Staff.Intern #13
+Washed using chemical washing
+ElectricCars #3's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+WASHING:: ElectricCars #5 is assigned to Staff.Intern #13
+Washed using chemical washing
+ElectricCars #5's cleanliness changed from dirty to clean
+Staff.Intern #13 received a bonus of 0.0
+NORTHWASHING:: Grave Digger 1 is assigned to Staff.Intern #17
+Washed using detailed washing
+Grave Digger 1's cleanliness changed from dirty to cleanNORTHWASHING:: Grave Digger 1 is assigned to Staff.Intern #17
+Washed using detailed washing
+Grave Digger 1's cleanliness changed from dirty to cleanWASHING:: Brutus 2 is assigned to Staff.Intern #17
+Washed using detailed washing
+Brutus 2's cleanliness changed from dirty to cleanSOUTHWASHING:: ElectricCars #7 is assigned to Staff.Intern #11
+Washed using chemical washing
+ElectricCars #7's cleanliness changed from dirty to clean
+Staff.Intern #11 received a bonus of 0.0
+SOUTHWASHING:: ElectricCars #7 is assigned to Staff.Intern #11
+Washed using chemical washing
+ElectricCars #7's cleanliness changed from dirty to clean
+Staff.Intern #11 received a bonus of 0.0
+WASHING:: ElectricCars #8 is assigned to Staff.Intern #11
+Washed using chemical washing
+ElectricCars #8's cleanliness changed from dirty to clean
+Staff.Intern #11 received a bonus of 0.0
+SOUTHWASHING:: ElectricCars #11 is assigned to Staff.Intern #15
+Washed using detailed washing
+ElectricCars #11's cleanliness changed from dirty to cleanSOUTHWASHING:: ElectricCars #11 is assigned to Staff.Intern #15
+Washed using detailed washing
+ElectricCars #11's cleanliness changed from dirty to cleanWASHING:: Bounty Hunter 7 is assigned to Staff.Intern #15
+Washed using detailed washing
+Bounty Hunter 7's cleanliness changed from dirty to cleanSOUTHWASHING:: Madusa 8 is assigned to Staff.Intern #19
+Washed using chemical washing
+Madusa 8's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+SOUTHWASHING:: Madusa 8 is assigned to Staff.Intern #19
+Washed using chemical washing
+Madusa 8's cleanliness changed from dirty to clean
+Staff.Intern #19 received a bonus of 0.0
+WASHING:: Captain's Curse 9 is assigned to Staff.Intern #19
+Washed using chemical washing
+Captain's Curse 9's cleanliness changed from dirty to sparkling
+Staff.Intern #19 received a bonus of 35.0
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: Bear Foot (2xtreme) 5 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: Bear Foot (2xtreme) 5 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Swamp Thing 6 is assigned to Staff.Mechanic #2
+REPAIRING:: Staff.Mechanic #2 Was not succeeded in repairing Swamp Thing 6
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: Bear Foot (2xtreme) 5 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Swamp Thing 6 is assigned to Staff.Mechanic #2
+REPAIRING:: Staff.Mechanic #2 Was not succeeded in repairing Swamp Thing 6
+REPAIRING:: MotorCycles #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: Bear Foot (2xtreme) 5 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Swamp Thing 6 is assigned to Staff.Mechanic #2
+REPAIRING:: Staff.Mechanic #2 Was not succeeded in repairing Swamp Thing 6
+REPAIRING:: MotorCycles #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: MotorCycles #2 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+NORTHREPAIRING:: PerformanceCar #2 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: Bear Foot (2xtreme) 5 is assigned to Staff.Mechanic #1
+REPAIRING::Staff.Mechanic #1 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Swamp Thing 6 is assigned to Staff.Mechanic #2
+REPAIRING:: Staff.Mechanic #2 Was not succeeded in repairing Swamp Thing 6
+REPAIRING:: MotorCycles #1 is assigned to Staff.Mechanic #2
+REPAIRING::Staff.Mechanic #2 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: MotorCycles #2 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+REPAIRING:: MotorCycles #3 is assigned to Staff.Mechanic #3
+REPAIRING::Staff.Mechanic #3 repaired used motorCycles and made it veryNew(got bonus of $30.0)
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Madusa 8 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Madusa 8 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Batman 10 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken monsterTrucks and made it used(got bonus of $50.0)
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Madusa 8 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Batman 10 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken monsterTrucks and made it used(got bonus of $50.0)
+REPAIRING:: Sudden Impact 11 is assigned to Staff.Mechanic #5
+REPAIRING:: Staff.Mechanic #5 Was not succeeded in repairing Sudden Impact 11
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Madusa 8 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Batman 10 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken monsterTrucks and made it used(got bonus of $50.0)
+REPAIRING:: Sudden Impact 11 is assigned to Staff.Mechanic #5
+REPAIRING:: Staff.Mechanic #5 Was not succeeded in repairing Sudden Impact 11
+REPAIRING:: Bear Foot (F-150) 12 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+SOUTHREPAIRING:: Bounty Hunter 7 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Madusa 8 is assigned to Staff.Mechanic #4
+REPAIRING::Staff.Mechanic #4 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: Batman 10 is assigned to Staff.Mechanic #5
+REPAIRING::Staff.Mechanic #5 repaired broken monsterTrucks and made it used(got bonus of $50.0)
+REPAIRING:: Sudden Impact 11 is assigned to Staff.Mechanic #5
+REPAIRING:: Staff.Mechanic #5 Was not succeeded in repairing Sudden Impact 11
+REPAIRING:: Bear Foot (F-150) 12 is assigned to Staff.Mechanic #6
+REPAIRING::Staff.Mechanic #6 repaired used monsterTrucks and made it veryNew(got bonus of $50.0)
+REPAIRING:: MotorCycles #7 is assigned to Staff.Mechanic #6
+REPAIRING:: Staff.Mechanic #6 Was not succeeded in repairing MotorCycles #7
+NORTHSELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #3
+SELLING:: Staff.Intern #3 was not able to sell the car 
+NORTHSELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #3
+SELLING:: Staff.Intern #3 was not able to sell the car 
+SELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #1
+Added Extended Warranty Added Satellite Radio SELLING::Staff.Intern #1 sold the car of selling price 14227.5(Received Bonus =80.0)
+NORTHSELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #3
+SELLING:: Staff.Intern #3 was not able to sell the car 
+SELLING:: Staff.Customer preference electricCars; assigned to Staff.Intern #1
+Added Extended Warranty Added Satellite Radio SELLING::Staff.Intern #1 sold the car of selling price 14227.5(Received Bonus =80.0)
+SELLING:: Staff.Customer preference electricCars; assigned to Salesperson #2
+SELLING:: Salesperson #2 was not able to sell the car 
+NORTHStaff.SalesPerson Salesperson #2 got salary of $100.0 and bonus of $0.0
+NORTHStaff.Mechanic Staff.Mechanic #1 got salary of $75.0 and bonus of $100.0
+NORTHStaff.Mechanic Staff.Mechanic #2 got salary of $75.0 and bonus of $30.0
+NORTHStaff.Mechanic Staff.Mechanic #3 got salary of $75.0 and bonus of $60.0
+NORTHDriver Driver # 1 got salary of $150.0 and bonus of $0.0
+NORTHDriver Driver # 2 got salary of $150.0 and bonus of $0.0
+NORTHDriver Driver # 3 got salary of $150.0 and bonus of $0.0
+============= End of the day + 10 for the LocationNORTH====================== End of the day for the LocationNORTH=====================SOUTHStaff.SalesPerson Salesperson #4 got salary of $100.0 and bonus of $0.0
+SOUTHStaff.Mechanic Staff.Mechanic #4 got salary of $75.0 and bonus of $100.0
+SOUTHStaff.Mechanic Staff.Mechanic #5 got salary of $75.0 and bonus of $50.0
+SOUTHStaff.Mechanic Staff.Mechanic #6 got salary of $75.0 and bonus of $50.0
+SOUTHDriver Driver # 4 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 5 got salary of $150.0 and bonus of $0.0
+SOUTHDriver Driver # 6 got salary of $150.0 and bonus of $0.0
+============= End of the day + 10 for the LocationSOUTH====================== End of the day for the LocationSOUTH=====================
