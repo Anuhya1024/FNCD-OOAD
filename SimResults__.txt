@@ -1,0 +1,2158 @@
+************ FNCD Day 0 ************
+Opening........
+*********** FNCD has $500000.0 budget **************
+Hired Intern: Intern #1
+Hired Intern: Intern #2
+Hired Intern: Intern #3
+Purchased Cars #1of condition broken of cleanliness clean  cars for $6619.5 Cost
+Purchased Cars #2of condition broken of cleanliness dirty  cars for $8815.0 Cost
+Purchased Cars #3of condition broken of cleanliness dirty  cars for $9756.5 Cost
+Purchased Cars #4of condition used of cleanliness dirty  cars for $9693.6 Cost
+Purchased PickUpCars1of condition used of cleanliness dirty pickUpCars for $17565.600000000002 Cost
+Purchased PickUpCars2of condition used of cleanliness dirty pickUpCars for $14667.2 Cost
+Purchased PickUpCars3of condition used of cleanliness clean pickUpCars for $28158.4 Cost
+Purchased PickUpCars4of condition broken of cleanliness dirty pickUpCars for $13626.5 Cost
+Purchased PerformanceCar #1of condition broken of cleanliness dirty performanceCars for $11445.0 Cost
+Purchased PerformanceCar #2of condition used of cleanliness clean performanceCars for $18217.600000000002 Cost
+Purchased PerformanceCar #3of condition used of cleanliness clean performanceCars for $30509.600000000002 Cost
+Purchased PerformanceCar #4of condition broken of cleanliness clean performanceCars for $11197.5 Cost
+Washing.........
+WASHING:: Cars #2 is assigned to Intern #1
+Intern #1 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #3 is assigned to Intern #1
+Intern #1 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #4 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars1 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars2 is assigned to Intern #3
+Intern #3 washed dirty and made it to sparkling(got bonus of $30.0)
+WASHING:: PickUpCars4 is assigned to Intern #3
+Intern #3 washed dirty and made it to sparkling(got bonus of $30.0)
+Repairing........
+REPAIRING:: Cars #1 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+REPAIRING:: Cars #2 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+REPAIRING:: Cars #3 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired broken cars and made it used(got bonus of $30.0)
+REPAIRING:: Cars #4 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: PickUpCars1 is assigned to Mechanic #3
+REPAIRING::Mechanic #3 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: PickUpCars2 is assigned to Mechanic #3
+REPAIRING:: Mechanic #3 Was not succeeded in repairing PickUpCars2
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #2
+SELLING:: Salesperson #2 was not able to sell the car 
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #2 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #3 got salary of $100.0 and bonus of $0.0
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 135.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $60.0
+Gave Salary of 115.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $40.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 110.0
+Intern Intern #3 got salary of $50.0 and bonus of $60.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    1      100.0        0.0    Working
+ Salesperson #2                    1      100.0        0.0    Working
+ Salesperson #3                    1      100.0        0.0    Working
+    Mechanic #1                    1       75.0       60.0    Working
+    Mechanic #2                    1       75.0       60.0    Working
+    Mechanic #3                    1       75.0       40.0    Working
+      Intern #1                    1       50.0        0.0    Working
+      Intern #2                    1       50.0        0.0    Working
+      Intern #3                    1       50.0       60.0    Working
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5              19858.5                 used                dirty             In Stock
+        Cars #2               8815.0              26445.0                 used                dirty             In Stock
+        Cars #3               9756.5              29269.5                 used                dirty             In Stock
+        Cars #4               9693.6              24234.0              veryNew                dirty             In Stock
+    PickUpCars1   17565.600000000002    43914.00000000001              veryNew                dirty             In Stock
+    PickUpCars2              14667.2              29334.4                 used            sparkling             In Stock
+    PickUpCars3              28158.4              56316.8                 used                clean             In Stock
+    PickUpCars4              13626.5              27253.0               broken            sparkling             In Stock
+PerformanceCar #1              11445.0              22890.0               broken                dirty             In Stock
+PerformanceCar #2   18217.600000000002   36435.200000000004                 used                clean             In Stock
+PerformanceCar #3   30509.600000000002   61019.200000000004                 used                clean             In Stock
+PerformanceCar #4              11197.5              22395.0               broken                clean             In Stock
+Total $ in operating budget: 318833.0 Total sales $ for day: 0.0Total Cost of the day: 181167.0
+************ FNCD Day 1 ************
+Opening........
+*********** FNCD has $318833.0 budget **************
+Washing.........
+WASHING:: Cars #1 is assigned to Intern #1
+Intern #1 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #2 is assigned to Intern #1
+Intern #1 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #3 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #4 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars1 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #1 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #1 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #2 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #3 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: PickUpCars2 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: PickUpCars3 is assigned to Mechanic #3
+REPAIRING::Mechanic #3 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: PickUpCars4 is assigned to Mechanic #3
+REPAIRING::Mechanic #3 repaired broken pickUpCars and made it used(got bonus of $40.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #2
+SELLING:: Salesperson #2 was not able to sell the car 
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #2 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #3 got salary of $100.0 and bonus of $0.0
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 145.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $70.0
+Gave Salary of 155.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $80.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    2      200.0        0.0    Working
+ Salesperson #2                    2      200.0        0.0    Working
+    Mechanic #1                    2      150.0      120.0    Working
+    Mechanic #2                    2      150.0      130.0    Working
+    Mechanic #3                    2      150.0      120.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    2      100.0        0.0    Working
+      Intern #3                    2      100.0       60.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew                dirty             In Stock
+        Cars #2               8815.0             33056.25              veryNew                dirty             In Stock
+        Cars #3               9756.5            36586.875              veryNew                dirty             In Stock
+        Cars #4               9693.6              24234.0              veryNew                clean             In Stock
+    PickUpCars1   17565.600000000002    43914.00000000001              veryNew                clean             In Stock
+    PickUpCars2              14667.2              36668.0              veryNew                clean             In Stock
+    PickUpCars3              28158.4              70396.0              veryNew                dirty             In Stock
+    PickUpCars4              13626.5              40879.5                 used                clean             In Stock
+PerformanceCar #1              11445.0              22890.0               broken                clean             In Stock
+PerformanceCar #2   18217.600000000002   36435.200000000004                 used                clean             In Stock
+PerformanceCar #3   30509.600000000002   61019.200000000004                 used                clean             In Stock
+PerformanceCar #4              11197.5              22395.0               broken                clean             In Stock
+Total $ in operating budget: 317948.0 Total sales $ for day: 0.0Total Cost of the day: 885.0
+************ FNCD Day 2 ************
+Opening........
+*********** FNCD has $317948.0 budget **************
+Hired Intern: Intern #4
+Washing.........
+WASHING:: Cars #1 is assigned to Intern #2
+Intern #2 washed dirty and made it to dirty(got bonus of $0.0)
+WASHING:: Cars #2 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #3 is assigned to Intern #3
+Intern #3 washed dirty and made it to sparkling(got bonus of $25.0)
+WASHING:: PickUpCars3 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #4 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars1 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $30.0)
+Repairing........
+REPAIRING:: PickUpCars4 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used pickUpCars and made it veryNew(got bonus of $40.0)
+REPAIRING:: PerformanceCar #1 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken performanceCars and made it used(got bonus of $50.0)
+REPAIRING:: PerformanceCar #2 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used performanceCars and made it veryNew(got bonus of $50.0)
+REPAIRING:: PerformanceCar #3 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used performanceCars and made it veryNew(got bonus of $50.0)
+REPAIRING:: PerformanceCar #4 is assigned to Mechanic #3
+REPAIRING::Mechanic #3 repaired broken performanceCars and made it used(got bonus of $50.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #2 got salary of $100.0 and bonus of $0.0
+Gave Salary of 165.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $90.0
+Gave Salary of 175.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $100.0
+Gave Salary of 125.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $50.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #3 got salary of $50.0 and bonus of $25.0
+Gave Salary of 80.0
+Intern Intern #4 got salary of $50.0 and bonus of $30.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    3      300.0        0.0    Working
+ Salesperson #2                    3      300.0        0.0    Working
+    Mechanic #1                    3      225.0      210.0    Working
+    Mechanic #2                    3      225.0      230.0    Working
+    Mechanic #3                    3      225.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    3      150.0        0.0    Working
+      Intern #3                    3      150.0       85.0    Working
+      Intern #4                    1       50.0       30.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew                dirty             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+        Cars #4               9693.6              24234.0              veryNew                clean             In Stock
+    PickUpCars1   17565.600000000002    43914.00000000001              veryNew            sparkling             In Stock
+    PickUpCars2              14667.2              36668.0              veryNew                clean             In Stock
+    PickUpCars3              28158.4              70396.0              veryNew                clean             In Stock
+    PickUpCars4              13626.5            51099.375              veryNew                dirty             In Stock
+PerformanceCar #1              11445.0              34335.0                 used                dirty             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew                dirty             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew                dirty             In Stock
+PerformanceCar #4              11197.5              33592.5                 used                dirty             In Stock
+Total $ in operating budget: 317028.0 Total sales $ for day: 0.0Total Cost of the day: 920.0
+************ FNCD Day 3 ************
+Opening........
+*********** FNCD has $317028.0 budget **************
+Washing.........
+WASHING:: Cars #1 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars4 is assigned to Intern #2
+Intern #2 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #1 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #2 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #3 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #4 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: PerformanceCar #1 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used performanceCars and made it veryNew(got bonus of $50.0)
+REPAIRING:: PerformanceCar #4 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used performanceCars and made it veryNew(got bonus of $50.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 100.0
+SalesPerson Salesperson #2 got salary of $100.0 and bonus of $0.0
+Gave Salary of 175.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $100.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    4      400.0        0.0    Working
+    Mechanic #1                    4      300.0      310.0    Working
+    Mechanic #2                    4      300.0      230.0    Working
+    Mechanic #3                    4      300.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    4      200.0       85.0    Working
+      Intern #4                    2      100.0       30.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew                clean             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+        Cars #4               9693.6              24234.0              veryNew                clean             In Stock
+    PickUpCars1   17565.600000000002    43914.00000000001              veryNew            sparkling             In Stock
+    PickUpCars2              14667.2              36668.0              veryNew                clean             In Stock
+    PickUpCars3              28158.4              70396.0              veryNew                clean             In Stock
+    PickUpCars4              13626.5            51099.375              veryNew                clean             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew                dirty             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew                clean             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew                clean             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew                dirty             In Stock
+Total $ in operating budget: 316303.0 Total sales $ for day: 0.0Total Cost of the day: 725.0
+************ FNCD Day 4 ************
+Opening........
+*********** FNCD has $316303.0 budget **************
+Hired Intern: Intern #5
+Washing.........
+WASHING:: PerformanceCar #1 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #4 is assigned to Intern #3
+Intern #3 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #1 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #2 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: Cars #4 is assigned to Intern #5
+Intern #5 washed clean and made it to sparkling(got bonus of $25.0)
+WASHING:: PickUpCars2 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING::Intern #2 sold the car of selling price 36668.0(Received Bonus =60.0)
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING::Salesperson #1 sold the car of selling price 43914.00000000001(Received Bonus =60.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING::Salesperson #1 sold the car of selling price 51099.375(Received Bonus =60.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+Closing...........
+Gave Salary of 220.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $120.0
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 75.0
+Intern Intern #5 got salary of $50.0 and bonus of $25.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    5      500.0      120.0    Working
+    Mechanic #1                    5      375.0      310.0    Working
+    Mechanic #2                    5      375.0      230.0    Working
+    Mechanic #3                    5      375.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    5      250.0       85.0    Working
+      Intern #4                    3      150.0       55.0    Working
+      Intern #5                    1       50.0       25.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+        Cars #4               9693.6              24234.0              veryNew            sparkling             In Stock
+    PickUpCars3              28158.4              70396.0              veryNew                clean             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew                clean             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew                clean             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew                clean             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew                clean             In Stock
+Total $ in operating budget: 578920.75 Total sales $ for day: 131681.375Total Cost of the day: 745.0
+************ FNCD Day 5 ************
+Opening........
+*********** FNCD has $578920.75 budget **************
+Washing.........
+WASHING:: Cars #2 is assigned to Intern #3
+Intern #3 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars3 is assigned to Intern #3
+Intern #3 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #1 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #2 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $35.0)
+WASHING:: PerformanceCar #3 is assigned to Intern #5
+Intern #5 washed clean and made it to sparkling(got bonus of $35.0)
+WASHING:: PerformanceCar #4 is assigned to Intern #5
+Intern #5 washed clean and made it to sparkling(got bonus of $35.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING:: Salesperson #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING:: Salesperson #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 85.0
+Intern Intern #4 got salary of $50.0 and bonus of $35.0
+Gave Salary of 120.0
+Intern Intern #5 got salary of $50.0 and bonus of $70.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+ Salesperson #1                    6      600.0      120.0    Working
+    Mechanic #1                    6      450.0      310.0    Working
+    Mechanic #2                    6      450.0      230.0    Working
+    Mechanic #3                    6      450.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    6      300.0       85.0    Working
+      Intern #4                    4      200.0       90.0    Working
+      Intern #5                    2      100.0       95.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+        Cars #4               9693.6              24234.0              veryNew            sparkling             In Stock
+    PickUpCars3              28158.4              70396.0              veryNew                clean             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew                clean             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 578240.75 Total sales $ for day: 0.0Total Cost of the day: 680.0
+Day 6 is Sunday. FNCD is closed
+************ FNCD Day 6 ************
+Opening........
+*********** FNCD has $578240.75 budget **************
+Washing.........
+WASHING:: Cars #2 is assigned to Intern #3
+Intern #3 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PickUpCars3 is assigned to Intern #3
+Intern #3 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: PerformanceCar #1 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $35.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 70396.0(Received Bonus =60.0)
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Salesperson #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Salesperson #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Salesperson #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Salesperson #1
+SELLING:: Salesperson #1 was not able to sell the car 
+Closing...........
+Gave Salary of 100.0
+SalesPerson Salesperson #1 got salary of $100.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 85.0
+Intern Intern #4 got salary of $50.0 and bonus of $35.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                    7      525.0      310.0    Working
+    Mechanic #2                    7      525.0      230.0    Working
+    Mechanic #3                    7      525.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                    5      250.0      125.0    Working
+      Intern #5                    3      150.0       95.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+        Cars #4               9693.6              24234.0              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 718422.75 Total sales $ for day: 70396.0Total Cost of the day: 610.0
+************ FNCD Day 7 ************
+Opening........
+*********** FNCD has $718422.75 budget **************
+Hired Intern: Intern #6
+Washing.........
+WASHING:: Cars #2 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #2 sold the car of selling price 24234.0(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                    8      600.0      310.0    Working
+    Mechanic #2                    8      600.0      230.0    Working
+    Mechanic #3                    8      600.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                    6      300.0      125.0    Working
+      Intern #5                    4      200.0       95.0    Working
+      Intern #6                    1       50.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew                clean             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 766365.75 Total sales $ for day: 24234.0Total Cost of the day: 525.0
+************ FNCD Day 8 ************
+Opening........
+*********** FNCD has $766365.75 budget **************
+Purchased Cars #5of condition broken of cleanliness dirty  cars for $6362.5 Cost
+Washing.........
+WASHING:: Cars #5 is assigned to Intern #4
+Intern #4 washed dirty and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #2 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $25.0)
+Repairing........
+REPAIRING:: Cars #5 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 100.0
+Intern Intern #4 got salary of $50.0 and bonus of $50.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                    9      675.0      340.0    Working
+    Mechanic #2                    9      675.0      230.0    Working
+    Mechanic #3                    9      675.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                    7      350.0      175.0    Working
+      Intern #5                    5      250.0       95.0    Working
+      Intern #6                    2      100.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew            sparkling             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+        Cars #5               6362.5              19087.5                 used                clean             In Stock
+Total $ in operating budget: 759398.25 Total sales $ for day: 0.0Total Cost of the day: 6967.5
+************ FNCD Day 9 ************
+Opening........
+*********** FNCD has $759398.25 budget **************
+Washing.........
+WASHING:: Cars #5 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #5 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 23859.375(Received Bonus =50.0)
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   10      750.0      370.0    Working
+    Mechanic #2                   10      750.0      230.0    Working
+    Mechanic #3                   10      750.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                    8      400.0      175.0    Working
+      Intern #5                    6      300.0       95.0    Working
+      Intern #6                    3      150.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #1               6619.5            24823.125              veryNew            sparkling             In Stock
+        Cars #2               8815.0             33056.25              veryNew            sparkling             In Stock
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 806562.0 Total sales $ for day: 23859.375Total Cost of the day: 555.0
+************ FNCD Day 10 ************
+Opening........
+*********** FNCD has $806562.0 budget **************
+Purchased Cars #6of condition used of cleanliness dirty  cars for $13394.400000000001 Cost
+Washing.........
+WASHING:: Cars #6 is assigned to Intern #4
+Intern #4 washed dirty and made it to sparkling(got bonus of $25.0)
+Repairing........
+REPAIRING:: Cars #6 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 24823.125(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 33056.25(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 33486.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   11      825.0      400.0    Working
+    Mechanic #2                   11      825.0      230.0    Working
+    Mechanic #3                   11      825.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                    9      450.0      200.0    Working
+      Intern #5                    7      350.0       95.0    Working
+      Intern #6                    4      200.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 975318.35 Total sales $ for day: 91365.375Total Cost of the day: 13974.400000000001
+************ FNCD Day 11 ************
+Opening........
+*********** FNCD has $975318.35 budget **************
+Purchased Cars #7of condition used of cleanliness dirty  cars for $8315.2 Cost
+Purchased Cars #8of condition broken of cleanliness dirty  cars for $7331.0 Cost
+Purchased Cars #9of condition broken of cleanliness clean  cars for $9061.0 Cost
+Washing.........
+WASHING:: Cars #7 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #8 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #9 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #7 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #8 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+REPAIRING:: Cars #9 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired broken cars and made it used(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 20788.0(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 105.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   12      900.0      460.0    Working
+    Mechanic #2                   12      900.0      260.0    Working
+    Mechanic #3                   12      900.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   10      500.0      200.0    Working
+      Intern #5                    8      400.0       95.0    Working
+      Intern #6                    5      250.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+        Cars #8               7331.0              21993.0                 used                dirty             In Stock
+        Cars #9               9061.0              27183.0                 used                dirty             In Stock
+Total $ in operating budget: 991572.15 Total sales $ for day: 20788.0Total Cost of the day: 25322.2
+Day 12 is Sunday. FNCD is closed
+************ FNCD Day 12 ************
+Opening........
+*********** FNCD has $991572.15 budget **************
+Purchased Cars #10of condition used of cleanliness dirty  cars for $15480.0 Cost
+Washing.........
+WASHING:: Cars #8 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #9 is assigned to Intern #4
+Intern #4 washed dirty and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #10 is assigned to Intern #5
+Intern #5 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #8 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #9 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #10 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 27491.25(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING::Intern #3 sold the car of selling price 33978.75(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 105.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   13      975.0      520.0    Working
+    Mechanic #2                   13      975.0      290.0    Working
+    Mechanic #3                   13      975.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   11      550.0      225.0    Working
+      Intern #5                    9      450.0       95.0    Working
+      Intern #6                    6      300.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew                dirty             In Stock
+Total $ in operating budget: 1098392.15 Total sales $ for day: 61470.0Total Cost of the day: 16120.0
+************ FNCD Day 13 ************
+Opening........
+*********** FNCD has $1098392.15 budget **************
+Purchased Cars #11of condition used of cleanliness dirty  cars for $13786.400000000001 Cost
+Purchased Cars #12of condition used of cleanliness clean  cars for $12383.2 Cost
+Washing.........
+WASHING:: Cars #10 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #11 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #12 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #11 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #12 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING::Intern #2 sold the car of selling price 30958.0(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 34466.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   14     1050.0      580.0    Working
+    Mechanic #2                   14     1050.0      290.0    Working
+    Mechanic #3                   14     1050.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   12      600.0      225.0    Working
+      Intern #5                   10      500.0       95.0    Working
+      Intern #6                    7      350.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew                clean             In Stock
+Total $ in operating budget: 1202485.5499999998 Total sales $ for day: 65424.0Total Cost of the day: 26754.600000000002
+************ FNCD Day 14 ************
+Opening........
+*********** FNCD has $1202485.5499999998 budget **************
+Purchased Cars #13of condition used of cleanliness clean  cars for $12852.800000000001 Cost
+Purchased Cars #14of condition used of cleanliness clean  cars for $12252.0 Cost
+Washing.........
+WASHING:: Cars #10 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #13 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: Cars #14 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #13 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #14 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   15     1125.0      640.0    Working
+    Mechanic #2                   15     1125.0      290.0    Working
+    Mechanic #3                   15     1125.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   13      650.0      250.0    Working
+      Intern #5                   11      550.0       95.0    Working
+      Intern #6                    8      400.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #13   12852.800000000001   32132.000000000004              veryNew                dirty             In Stock
+       Cars #14              12252.0              30630.0              veryNew                dirty             In Stock
+Total $ in operating budget: 1176770.7499999998 Total sales $ for day: 0.0Total Cost of the day: 25714.800000000003
+************ FNCD Day 15 ************
+Opening........
+*********** FNCD has $1176770.7499999998 budget **************
+Washing.........
+WASHING:: Cars #13 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #14 is assigned to Intern #4
+Intern #4 washed dirty and made it to dirty(got bonus of $0.0)
+Repairing........
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   16     1200.0      640.0    Working
+    Mechanic #2                   16     1200.0      290.0    Working
+    Mechanic #3                   16     1200.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   14      700.0      250.0    Working
+      Intern #5                   12      600.0       95.0    Working
+      Intern #6                    9      450.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #13   12852.800000000001   32132.000000000004              veryNew                clean             In Stock
+       Cars #14              12252.0              30630.0              veryNew                dirty             In Stock
+Total $ in operating budget: 1176245.7499999998 Total sales $ for day: 0.0Total Cost of the day: 525.0
+************ FNCD Day 16 ************
+Opening........
+*********** FNCD has $1176245.7499999998 budget **************
+Washing.........
+WASHING:: Cars #14 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #13 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $25.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #3 sold the car of selling price 30630.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   17     1275.0      640.0    Working
+    Mechanic #2                   17     1275.0      290.0    Working
+    Mechanic #3                   17     1275.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   15      750.0      275.0    Working
+      Intern #5                   13      650.0       95.0    Working
+      Intern #6                   10      500.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #13   12852.800000000001   32132.000000000004              veryNew            sparkling             In Stock
+Total $ in operating budget: 1236955.7499999998 Total sales $ for day: 30630.0Total Cost of the day: 550.0
+************ FNCD Day 17 ************
+Opening........
+*********** FNCD has $1236955.7499999998 budget **************
+Purchased Cars #15of condition broken of cleanliness dirty  cars for $5380.0 Cost
+Washing.........
+WASHING:: Cars #15 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #15 is assigned to Mechanic #1
+REPAIRING:: Mechanic #1 Was not succeeded in repairing Cars #15
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING::Intern #2 sold the car of selling price 10760.0(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 32132.000000000004(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   18     1350.0      640.0    Working
+    Mechanic #2                   18     1350.0      290.0    Working
+    Mechanic #3                   18     1350.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   16      800.0      275.0    Working
+      Intern #5                   14      700.0       95.0    Working
+      Intern #6                   11      550.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+Total $ in operating budget: 1316834.7499999998 Total sales $ for day: 42892.0Total Cost of the day: 5905.0
+Day 18 is Sunday. FNCD is closed
+************ FNCD Day 18 ************
+Opening........
+*********** FNCD has $1316834.7499999998 budget **************
+Purchased Cars #16of condition broken of cleanliness dirty  cars for $9685.5 Cost
+Purchased Cars #17of condition used of cleanliness dirty  cars for $10915.2 Cost
+Washing.........
+WASHING:: Cars #16 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #17 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #16 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+REPAIRING:: Cars #17 is assigned to Mechanic #1
+REPAIRING:: Mechanic #1 Was not succeeded in repairing Cars #17
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   19     1425.0      670.0    Working
+    Mechanic #2                   19     1425.0      290.0    Working
+    Mechanic #3                   19     1425.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   17      850.0      275.0    Working
+      Intern #5                   15      750.0       95.0    Working
+      Intern #6                   12      600.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #16               9685.5              29056.5                 used                dirty             In Stock
+       Cars #17              10915.2              21830.4                 used                clean             In Stock
+Total $ in operating budget: 1295679.0499999998 Total sales $ for day: 0.0Total Cost of the day: 21155.7
+************ FNCD Day 19 ************
+Opening........
+*********** FNCD has $1295679.0499999998 budget **************
+Washing.........
+WASHING:: Cars #16 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #17 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #16 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #17 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   20     1500.0      730.0    Working
+    Mechanic #2                   20     1500.0      290.0    Working
+    Mechanic #3                   20     1500.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   18      900.0      275.0    Working
+      Intern #5                   16      800.0       95.0    Working
+      Intern #6                   13      650.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #16               9685.5            36320.625              veryNew                dirty             In Stock
+       Cars #17              10915.2              27288.0              veryNew                dirty             In Stock
+Total $ in operating budget: 1295094.0499999998 Total sales $ for day: 0.0Total Cost of the day: 585.0
+************ FNCD Day 20 ************
+Opening........
+*********** FNCD has $1295094.0499999998 budget **************
+Washing.........
+WASHING:: Cars #16 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #17 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   21     1575.0      730.0    Working
+    Mechanic #2                   21     1575.0      290.0    Working
+    Mechanic #3                   21     1575.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   19      950.0      275.0    Working
+      Intern #5                   17      850.0       95.0    Working
+      Intern #6                   14      700.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #16               9685.5            36320.625              veryNew                clean             In Stock
+       Cars #17              10915.2              27288.0              veryNew                clean             In Stock
+Total $ in operating budget: 1294569.0499999998 Total sales $ for day: 0.0Total Cost of the day: 525.0
+************ FNCD Day 21 ************
+Opening........
+*********** FNCD has $1294569.0499999998 budget **************
+Washing.........
+WASHING:: Cars #16 is assigned to Intern #4
+Intern #4 washed clean and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #17 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING::Intern #3 sold the car of selling price 27288.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   22     1650.0      730.0    Working
+    Mechanic #2                   22     1650.0      290.0    Working
+    Mechanic #3                   22     1650.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   20     1000.0      300.0    Working
+      Intern #5                   18      900.0       95.0    Working
+      Intern #6                   15      750.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #16               9685.5            36320.625              veryNew            sparkling             In Stock
+Total $ in operating budget: 1348595.0499999998 Total sales $ for day: 27288.0Total Cost of the day: 550.0
+************ FNCD Day 22 ************
+Opening........
+*********** FNCD has $1348595.0499999998 budget **************
+Purchased Cars #18of condition used of cleanliness dirty  cars for $8010.400000000001 Cost
+Washing.........
+WASHING:: Cars #18 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #18 is assigned to Mechanic #1
+REPAIRING:: Mechanic #1 Was not succeeded in repairing Cars #18
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   23     1725.0      730.0    Working
+    Mechanic #2                   23     1725.0      290.0    Working
+    Mechanic #3                   23     1725.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   21     1050.0      300.0    Working
+      Intern #5                   19      950.0       95.0    Working
+      Intern #6                   16      800.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+        Cars #3               9756.5            36586.875              veryNew            sparkling             In Stock
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+PerformanceCar #4              11197.5            41990.625              veryNew            sparkling             In Stock
+       Cars #10              15480.0              38700.0              veryNew            sparkling             In Stock
+       Cars #16               9685.5            36320.625              veryNew            sparkling             In Stock
+       Cars #18    8010.400000000001   16020.800000000001                 used                clean             In Stock
+Total $ in operating budget: 1340059.65 Total sales $ for day: 0.0Total Cost of the day: 8535.400000000001
+************ FNCD Day 23 ************
+Opening........
+*********** FNCD has $1340059.65 budget **************
+Washing.........
+WASHING:: Cars #18 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #18 is assigned to Mechanic #1
+REPAIRING:: Mechanic #1 Was not succeeded in repairing Cars #18
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 16020.800000000001(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #2 sold the car of selling price 36320.625(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 36586.875(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #2 sold the car of selling price 38700.0(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typeperformanceCars
+SELLING::Intern #2 sold the car of selling price 41990.625(Received Bonus =70.0)
+Closing...........
+Gave Salary of 75.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   24     1800.0      730.0    Working
+    Mechanic #2                   24     1800.0      290.0    Working
+    Mechanic #3                   24     1800.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   22     1100.0      300.0    Working
+      Intern #5                   20     1000.0       95.0    Working
+      Intern #6                   17      850.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+Total $ in operating budget: 1678772.5 Total sales $ for day: 169618.925Total Cost of the day: 525.0
+Day 24 is Sunday. FNCD is closed
+************ FNCD Day 24 ************
+Opening........
+*********** FNCD has $1678772.5 budget **************
+Purchased Cars #19of condition used of cleanliness clean  cars for $9280.0 Cost
+Purchased Cars #20of condition used of cleanliness dirty  cars for $13392.0 Cost
+Purchased Cars #21of condition used of cleanliness sparkling  cars for $9717.6 Cost
+Purchased Cars #22of condition broken of cleanliness dirty  cars for $9574.5 Cost
+Washing.........
+WASHING:: Cars #20 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #22 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #19 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #19 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #20 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #21 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #22 is assigned to Mechanic #2
+REPAIRING::Mechanic #2 repaired broken cars and made it used(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 23200.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 135.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $60.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   25     1875.0      790.0    Working
+    Mechanic #2                   25     1875.0      350.0    Working
+    Mechanic #3                   25     1875.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   23     1150.0      300.0    Working
+      Intern #5                   21     1050.0       95.0    Working
+      Intern #6                   18      900.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                dirty             In Stock
+       Cars #21               9717.6              24294.0              veryNew                clean             In Stock
+       Cars #22               9574.5              28723.5                 used                dirty             In Stock
+Total $ in operating budget: 1682563.4 Total sales $ for day: 23200.0Total Cost of the day: 42609.1
+************ FNCD Day 25 ************
+Opening........
+*********** FNCD has $1682563.4 budget **************
+Purchased Cars #23of condition broken of cleanliness dirty  cars for $8896.0 Cost
+Washing.........
+WASHING:: Cars #20 is assigned to Intern #4
+Intern #4 washed dirty and made it to dirty(got bonus of $0.0)
+WASHING:: Cars #22 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #23 is assigned to Intern #5
+Intern #5 washed dirty and made it to dirty(got bonus of $0.0)
+WASHING:: Cars #21 is assigned to Intern #5
+Intern #5 washed clean and made it to sparkling(got bonus of $25.0)
+Repairing........
+REPAIRING:: Cars #22 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+REPAIRING:: Cars #23 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 135.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $60.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #5 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   26     1950.0      850.0    Working
+    Mechanic #2                   26     1950.0      350.0    Working
+    Mechanic #3                   26     1950.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   24     1200.0      300.0    Working
+      Intern #5                   22     1100.0      120.0    Working
+      Intern #6                   19      950.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                dirty             In Stock
+       Cars #21               9717.6              24294.0              veryNew            sparkling             In Stock
+       Cars #22               9574.5            35904.375              veryNew                dirty             In Stock
+       Cars #23               8896.0              26688.0                 used                dirty             In Stock
+Total $ in operating budget: 1673057.4 Total sales $ for day: 0.0Total Cost of the day: 9506.0
+************ FNCD Day 26 ************
+Opening........
+*********** FNCD has $1673057.4 budget **************
+Washing.........
+WASHING:: Cars #20 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #22 is assigned to Intern #4
+Intern #4 washed dirty and made it to sparkling(got bonus of $25.0)
+WASHING:: Cars #23 is assigned to Intern #5
+Intern #5 washed dirty and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #23 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING::Intern #2 sold the car of selling price 24294.0(Received Bonus =50.0)
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #4 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   27     2025.0      880.0    Working
+    Mechanic #2                   27     2025.0      350.0    Working
+    Mechanic #3                   27     2025.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   25     1250.0      325.0    Working
+      Intern #5                   23     1150.0      120.0    Working
+      Intern #6                   20     1000.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                clean             In Stock
+       Cars #22               9574.5            35904.375              veryNew            sparkling             In Stock
+       Cars #23               8896.0              33360.0              veryNew                dirty             In Stock
+Total $ in operating budget: 1721065.4 Total sales $ for day: 24294.0Total Cost of the day: 580.0
+************ FNCD Day 27 ************
+Opening........
+*********** FNCD has $1721065.4 budget **************
+Purchased Cars #24of condition broken of cleanliness dirty  cars for $7575.0 Cost
+Washing.........
+WASHING:: Cars #23 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #24 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #20 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #24 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired broken cars and made it used(got bonus of $30.0)
+Selling...........
+Selling Called
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   28     2100.0      910.0    Working
+    Mechanic #2                   28     2100.0      350.0    Working
+    Mechanic #3                   28     2100.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   26     1300.0      325.0    Working
+      Intern #5                   24     1200.0      120.0    Working
+      Intern #6                   21     1050.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                clean             In Stock
+       Cars #22               9574.5            35904.375              veryNew            sparkling             In Stock
+       Cars #23               8896.0              33360.0              veryNew                clean             In Stock
+       Cars #24               7575.0              22725.0                 used                dirty             In Stock
+Total $ in operating budget: 1712935.4 Total sales $ for day: 0.0Total Cost of the day: 8130.0
+************ FNCD Day 28 ************
+Opening........
+*********** FNCD has $1712935.4 budget **************
+Washing.........
+WASHING:: Cars #24 is assigned to Intern #4
+Intern #4 washed dirty and made it to clean(got bonus of $0.0)
+WASHING:: Cars #20 is assigned to Intern #4
+Intern #4 washed clean and made it to clean(got bonus of $0.0)
+WASHING:: Cars #23 is assigned to Intern #5
+Intern #5 washed clean and made it to clean(got bonus of $0.0)
+Repairing........
+REPAIRING:: Cars #24 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference cars; assigned to Intern #3
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #2
+SELLING::Intern #2 sold the car of selling price 28406.25(Received Bonus =50.0)
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #5 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   29     2175.0      940.0    Working
+    Mechanic #2                   29     2175.0      350.0    Working
+    Mechanic #3                   29     2175.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   27     1350.0      325.0    Working
+      Intern #5                   25     1250.0      120.0    Working
+      Intern #6                   22     1100.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                clean             In Stock
+       Cars #22               9574.5            35904.375              veryNew            sparkling             In Stock
+       Cars #23               8896.0              33360.0              veryNew                clean             In Stock
+Total $ in operating budget: 1769192.9 Total sales $ for day: 28406.25Total Cost of the day: 555.0
+************ FNCD Day 29 ************
+Opening........
+*********** FNCD has $1769192.9 budget **************
+Purchased Cars #25of condition used of cleanliness dirty  cars for $9702.4 Cost
+Washing.........
+WASHING:: Cars #25 is assigned to Intern #4
+Intern #4 washed dirty and made it to dirty(got bonus of $0.0)
+WASHING:: Cars #20 is assigned to Intern #4
+Intern #4 washed clean and made it to dirty(got bonus of $0.0)
+WASHING:: Cars #23 is assigned to Intern #5
+Intern #5 washed clean and made it to sparkling(got bonus of $25.0)
+Repairing........
+REPAIRING:: Cars #25 is assigned to Mechanic #1
+REPAIRING::Mechanic #1 repaired used cars and made it veryNew(got bonus of $30.0)
+Selling...........
+Selling Called
+SELLING:: Customer preference pickUpCars; assigned to Intern #3
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #3 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING::Intern #1 sold the car of selling price 24256.0(Received Bonus =50.0)
+SELLING:: Customer preference pickUpCars; assigned to Intern #1
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #1 was not able to sell the car 
+SELLING:: Customer preference pickUpCars; assigned to Intern #2
+SELLING:: Customer preferred car is not in inventory, Hence showing him the car typecars
+SELLING:: Intern #2 was not able to sell the car 
+SELLING:: Customer preference cars; assigned to Intern #1
+SELLING::Intern #1 sold the car of selling price 33360.0(Received Bonus =50.0)
+Closing...........
+Gave Salary of 105.0
+Mechanic Mechanic #1 got salary of $75.0 and bonus of $30.0
+Gave Salary of 75.0
+Mechanic Mechanic #2 got salary of $75.0 and bonus of $0.0
+Gave Salary of 75.0
+Mechanic Mechanic #3 got salary of $75.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #1 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #2 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #3 got salary of $50.0 and bonus of $0.0
+Gave Salary of 50.0
+Intern Intern #4 got salary of $50.0 and bonus of $0.0
+Gave Salary of 75.0
+Intern Intern #5 got salary of $50.0 and bonus of $25.0
+Gave Salary of 50.0
+Intern Intern #6 got salary of $50.0 and bonus of $0.0
+--------------------------  STAFF LIST -----------------------------------------------
+
+EMPLOYEE NAME |     NO. DAYS WORKED | TOTAL SALARY | BONUS EARNED | CURRENT STATUS
+---------------------------------------------------------------------------------------------
+    Mechanic #1                   30     2250.0      970.0    Working
+    Mechanic #2                   30     2250.0      350.0    Working
+    Mechanic #3                   30     2250.0      170.0    Working
+      Intern #1                    2      100.0        0.0    Working
+      Intern #2                    4      200.0        0.0    Working
+      Intern #3                    7      350.0       85.0    Working
+      Intern #4                   28     1400.0      325.0    Working
+      Intern #5                   26     1300.0      145.0    Working
+      Intern #6                   23     1150.0        0.0    Working
+ Salesperson #3                    2      200.0        0.0       Quit
+ Salesperson #2                    4      400.0        0.0       Quit
+ Salesperson #1                    7      700.0      120.0       Quit
+-------------------------- VEHICLES INVENTORY --------------------------------------------------------------------------------------------
+
+VEHICLE NAME |           COST PRICE|      SELLING PRICE |          CONDITION | CLEANLINESS CONDITION |       CURRENT STATUS
+-------------------------------------------------------------------------------------------------------------------------------------------
+PerformanceCar #1              11445.0             42918.75              veryNew            sparkling             In Stock
+PerformanceCar #2   18217.600000000002    45544.00000000001              veryNew            sparkling             In Stock
+PerformanceCar #3   30509.600000000002              76274.0              veryNew            sparkling             In Stock
+       Cars #20              13392.0              33480.0              veryNew                dirty             In Stock
+       Cars #22               9574.5            35904.375              veryNew            sparkling             In Stock
+Total $ in operating budget: 1874142.5 Total sales $ for day: 57616.0Total Cost of the day: 10282.4
